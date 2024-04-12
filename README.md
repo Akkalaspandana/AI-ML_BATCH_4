@@ -7,4 +7,5 @@
 [https://github.com/Akkalaspandana/AI-ML_BATCH_4/blob/main/assingment7_SVM.ipynb]
 [https://github.com/Akkalaspandana/AI-ML_BATCH_4/blob/main/assingment8_Decision_Tree.ipynb]
 [https://github.com/Akkalaspandana/AI-ML_BATCH_4/blob/main/assingment9.ipynb]
+[https://github.com/Akkalaspandana/AI-ML_BATCH_4/blob/main/assingment10_KMeans.ipynb]
 # AI-ML_BATCH_4
